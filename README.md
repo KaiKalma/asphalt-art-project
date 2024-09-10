@@ -33,6 +33,7 @@ PyramidPainter and CloudPainter.
 2. What are two things about your project that you are proud of?
 
 Two things in my project that I am proud of is my idea for it because it is very unique. I am also proud of how I made the pyramid look like it had a shadow because it made it look much more detailed.
+
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
 Something that I would do differently is making my paintLine method work properly. Since it was broken due to my choice of a 32x32 grid, and I did not have time to talk to Mr. Eillo, I ended up having to code most of the
